@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You are visitor number ![Visitor Count](https://profile-counter.glitch.me/krukru/count.svg)
+
 <!--
 **krukru/krukru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
